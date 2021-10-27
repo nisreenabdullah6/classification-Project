@@ -38,7 +38,7 @@ In this project, we are going to work on a dataset contains an airline passenger
 
 - **Satisfaction:** Airline satisfaction level(Satisfaction, neutral or dissatisfaction).
 
-**Goal:**
+**Goals:**
 
 - Determine which features are highly correlated to a satisfied.
 - Build a classification model to predict passenger satisfaction.
