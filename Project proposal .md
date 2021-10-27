@@ -13,8 +13,8 @@ the aim of this project is to build a classification model to determine whether 
 
 **Features:**
 
--**Gender**:Gender of the passengers (Female, Male)/n
--**Customer** **Type**:The customer type (Loyal customer, disloyal customer)
+- **Gender**:Gender of the passengers (Female, Male)/n
+- **Customer** **Type**:The customer type (Loyal customer, disloyal customer)
 -**Age** :The actual age of the passengers
 -**Type** **of Travel**: Purpose of the flight of the passengers (Personal Travel, Business Travel)
 -**Class**:Travel class in the plane of the passengers (Business, Eco, Eco Plus)
