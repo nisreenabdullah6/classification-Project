@@ -13,32 +13,32 @@ the aim of this project is to build a classification model to determine whether 
 
 **Features:**
 
-- _ **Gender** __:_ Gender of the passengers (Female, Male)
-- _ **Customer** __**Type**__ :_ The customer type (Loyal customer, disloyal customer)
-- _ **Age** __:_ The actual age of the passengers
-- _ **Type** __**of Travel**__ :_ Purpose of the flight of the passengers (Personal Travel, Business Travel)
-- _ **Class** __:_ Travel class in the plane of the passengers (Business, Eco, Eco Plus)
-- _ **Flight distance** __:_ The flight distance of this journey
-- _ **Inflight wifi service** __:_ Satisfaction level of the inflight wifi service (0:Not Applicable;1-5)
-- _ **Departure/Arrival time convenient** __:_ Satisfaction level of Departure/Arrival time convenient
-- _ **Ease of Online booking** __:_ Satisfaction level of online booking
-- _ **Gate location:** _ Satisfaction level of Gate location
-- _ **Food and drink** __:_ Satisfaction level of Food and drink
-- _ **Online boarding** __:_ Satisfaction level of online boarding
-- _ **Seat comfort** __:_ Satisfaction level of Seat comfort
-- _ **Inflight entertainment:** _ Satisfaction level of inflight entertainment
-- _ **On-board service** __:_ Satisfaction level of On-board service
-- _ **Leg room service** __:_ Satisfaction level of Leg room service
-- _ **Baggage handling** __:_ Satisfaction level of baggage handling
-- _ **Check-in service** __:_ Satisfaction level of Check-in service
-- _ **Inflight service:** _ Satisfaction level of inflight service
-- _ **Cleanliness** __:_ Satisfaction level of Cleanliness
-- _ **Departure Delay in Minutes** __:_ Minutes delayed when departure
-- _ **Arrival Delay in Minutes** __:_ Minutes delayed when Arrival
+-**Gender**:Gender of the passengers (Female, Male)
+-**Customer** **Type**:The customer type (Loyal customer, disloyal customer)
+-**Age** :The actual age of the passengers
+-**Type** **of Travel**: Purpose of the flight of the passengers (Personal Travel, Business Travel)
+-**Class**:Travel class in the plane of the passengers (Business, Eco, Eco Plus)
+-**Flight distance**: The flight distance of this journey
+-**Inflight wifi service** : Satisfaction level of the inflight wifi service (0:Not Applicable;1-5)
+-**Departure/Arrival time convenient** : Satisfaction level of Departure/Arrival time convenient
+-**Ease of Online booking** : Satisfaction level of online booking
+-**Gate location:** Satisfaction level of Gate location
+-**Food and drink** : Satisfaction level of Food and drink
+-**Online boarding**:Satisfaction level of online boarding
+-**Seat comfort** :Satisfaction level of Seat comfort
+-**Inflight entertainment:** Satisfaction level of inflight entertainment
+-**On-board service** : Satisfaction level of On-board service
+-**Leg room service** : Satisfaction level of Leg room service
+-**Baggage handling** : Satisfaction level of baggage handling
+-**Check-in service**:Satisfaction level of Check-in service
+-**Inflight service:** Satisfaction level of inflight service
+-**Cleanliness**:Satisfaction level of Cleanliness
+-**Departure Delay in Minutes:** Minutes delayed when departure
+-**Arrival Delay in Minutes**:Minutes delayed when Arrival
 
 **Target:**
 
-- _ **Satisfaction** __:_ Airline satisfaction level(Satisfaction, neutral or dissatisfaction)
+-**Satisfaction:**Airline satisfaction level(Satisfaction, neutral or dissatisfaction)
 
 **Goal:**
 
