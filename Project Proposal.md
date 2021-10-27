@@ -1,5 +1,5 @@
 
-## Project proposal
+## Project Proposal
 
 **Introduction**
 
